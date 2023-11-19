@@ -1,5 +1,5 @@
 import "./App.css";
-import Ad from "./ad";
+import Ad from "./Ad";
 import { Navbar } from "./components/Homepage/Navbar";
 import AllRoutes from "./routes/AllRoutes";
 function App() {
